@@ -1,5 +1,7 @@
 <img src="http://i.imgur.com/IkTrjna.png" width="190" height="164" align="right"/>
 
+Editor's note: The way that ED is hosted is pretty similar to Northstar for Titanfall 2, so I'm going to base it off of this wonderful project by DomiStyle.
+
 # ElDewrito dedicated server dockerized
 
 ## About
